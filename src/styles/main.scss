@@ -1,0 +1,16 @@
+$primaryFont: sans-serif;
+$containerMargin: 1em;
+$input: 1em 0em 1em 0em;
+
+* {
+    box-sizing: border-box;
+    font-family: $primaryFont;
+}
+
+.container {
+    margin: $containerMargin;
+}
+
+.input {
+    margin: $input;
+}
