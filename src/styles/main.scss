@@ -1,6 +1,6 @@
 $primaryFont: sans-serif;
 $containerMargin: 1em;
-$input: 1em 0em 1em 0em;
+$inputMargin: 1em 0em 1em 0em;
 
 * {
     box-sizing: border-box;
@@ -12,5 +12,5 @@ $input: 1em 0em 1em 0em;
 }
 
 .input {
-    margin: $input;
+    margin: $inputMargin;
 }
