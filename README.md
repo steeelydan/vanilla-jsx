@@ -27,7 +27,7 @@ npm start
 -   No framework overhead, no SPA gear, no PWA gear, usable in vanilla JS
 -   ES6
 
-## Uses cases
+## Use cases
 
 -   Projects which would have used jQuery before
 -   Projects of small to medium complexity which won't act as SPA
